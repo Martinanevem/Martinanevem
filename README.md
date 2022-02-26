@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Basa Martin
 - 👀 I’m interested in minden
-- 🌱 I’m currently learning mindent is
+- 🌱 I’m currently learning mindent is.
 - 📫 basamartin@turr.hu
 
 
